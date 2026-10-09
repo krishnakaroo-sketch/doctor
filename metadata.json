@@ -1,0 +1,6 @@
+{
+  "name": "Online Doctor Care",
+  "description": "AI-assisted online doctor consultation, safety triage, and clinical patient care platform supporting English, Hindi, and Marathi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
